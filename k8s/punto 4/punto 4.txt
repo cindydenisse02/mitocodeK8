@@ -1,0 +1,1 @@
+Curl en el siguiente directorio /k8s-proyecto-final/screens/punto 4
